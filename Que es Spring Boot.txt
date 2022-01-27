@@ -1,0 +1,6 @@
+Que es Spring Boot?
+Para entender que es SpringBoot primero debemos conocer cuales son los pasos para crear una aplicación con Spring Framework, estos son:
+	- Crear un proyecto MAven/Gradle y descargar las dependecias necesarias
+	- Codificar la aplicación
+	- Desplegar un servidor
+Ahora, retomando con Spring Boot este es una infraestructura ligera que tiene la intención de simplificar los pasos 1 y 3 para que el usuario se centre unicamente en la tarea del desarrollo de la aplicación
